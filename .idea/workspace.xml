@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="776049db-d0c4-41de-bd58-243feccd33fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d000.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex000.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex005.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="31aAwzSbLB4zDOrfuF2Kr0tcWq2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.d002.executor": "Run",
+    "Python.d003.executor": "Run",
+    "Python.d004.executor": "Run",
+    "Python.d005.executor": "Run",
+    "Python.d006.executor": "Run",
+    "Python.d007.executor": "Run",
+    "Python.d008.executor": "Run",
+    "Python.d009.executor": "Run",
+    "Python.d010.executor": "Run",
+    "Python.d011.executor": "Run",
+    "Python.d012.executor": "Run",
+    "Python.d015.executor": "Run",
+    "Python.d016.executor": "Run",
+    "Python.ex000.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.test000.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/tic80/OneDrive/Área de Trabalho/Estudos/Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="776049db-d0c4-41de-bd58-243feccd33fb" name="Changes" comment="" />
+      <created>1755752051815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755752051815</updated>
+      <workItem from="1755752052885" duration="13940000" />
+      <workItem from="1756054078019" duration="736000" />
+      <workItem from="1756055099881" duration="90000" />
+      <workItem from="1756056342053" duration="13002000" />
+      <workItem from="1756533833837" duration="4002000" />
+      <workItem from="1756946603915" duration="2282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ex001_py$d009.coverage" NAME="d009 Coverage Results" MODIFIED="1756066339068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$test000.coverage" NAME="test000 Coverage Results" MODIFIED="1755809935590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$d006.coverage" NAME="d006 Coverage Results" MODIFIED="1756062843586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1755811145164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$d004.coverage" NAME="d004 Coverage Results" MODIFIED="1756056561251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$d005.coverage" NAME="d005 Coverage Results" MODIFIED="1756057555152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$d008.coverage" NAME="d008 Coverage Results" MODIFIED="1756065447909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1756534413313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$ex000.coverage" NAME="ex000 Coverage Results" MODIFIED="1755810269534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$d002.coverage" NAME="d002 Coverage Results" MODIFIED="1755968081177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$d010.coverage" NAME="d010 Coverage Results" MODIFIED="1756068161695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$d003.coverage" NAME="d003 Coverage Results" MODIFIED="1755973758864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$d011.coverage" NAME="d011 Coverage Results" MODIFIED="1756069377848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1756535870828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$d015.coverage" NAME="d015 Coverage Results" MODIFIED="1756946959991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$d007.coverage" NAME="d007 Coverage Results" MODIFIED="1756063715140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$d016.coverage" NAME="d016 Coverage Results" MODIFIED="1756948592378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$d012.coverage" NAME="d012 Coverage Results" MODIFIED="1756070763149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
