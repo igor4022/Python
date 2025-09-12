@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="776049db-d0c4-41de-bd58-243feccd33fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/d021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d026.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +109,7 @@
       <workItem from="1756965246375" duration="31000" />
       <workItem from="1757030476909" duration="3838000" />
       <workItem from="1757192092847" duration="5000" />
-      <workItem from="1757457348257" duration="11289000" />
+      <workItem from="1757457348257" duration="12910000" />
     </task>
     <servers />
   </component>
@@ -127,7 +121,7 @@
     <SUITE FILE_PATH="coverage/Python$test000.coverage" NAME="test000 Coverage Results" MODIFIED="1755809935590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d006.coverage" NAME="d006 Coverage Results" MODIFIED="1756062843586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1755811145164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ex001_py$d026.coverage" NAME="d026 Coverage Results" MODIFIED="1757467938268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$d026.coverage" NAME="d026 Coverage Results" MODIFIED="1757471420599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d018.coverage" NAME="d018 Coverage Results" MODIFIED="1756956808016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d020.coverage" NAME="d020 Coverage Results" MODIFIED="1756965085040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d023.coverage" NAME="d023 Coverage Results" MODIFIED="1757466130544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
