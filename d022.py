@@ -1,4 +1,4 @@
-num = input(str('Digite um número de 0 a 9999...'))
+num = str(input('Digite um número de 0 a 9999...'))
 
 print('Unidade:{}'.format(num[3:4]))
 print('Dezena:{}'.format(num[2:3]))

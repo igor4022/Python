@@ -1,4 +1,4 @@
-frase = input(str('Digite uma frase...')).strip()
+frase = str(input('Digite uma frase...')).strip()
 
 print(frase.count('a'))
 print(frase.find('a'))

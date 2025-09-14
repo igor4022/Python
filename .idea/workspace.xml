@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="776049db-d0c4-41de-bd58-243feccd33fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ex007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d022.py" beforeDir="false" afterPath="$PROJECT_DIR$/d022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d023.py" beforeDir="false" afterPath="$PROJECT_DIR$/d023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d024.py" beforeDir="false" afterPath="$PROJECT_DIR$/d024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d025.py" beforeDir="false" afterPath="$PROJECT_DIR$/d025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d026.py" beforeDir="false" afterPath="$PROJECT_DIR$/d026.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +71,8 @@
     "Python.ex003.executor": "Run",
     "Python.ex005.executor": "Run",
     "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
     "Python.test000.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -110,6 +119,8 @@
       <workItem from="1757030476909" duration="3838000" />
       <workItem from="1757192092847" duration="5000" />
       <workItem from="1757457348257" duration="12910000" />
+      <workItem from="1757822666909" duration="31000" />
+      <workItem from="1757822722397" duration="2326000" />
     </task>
     <servers />
   </component>
@@ -133,6 +144,7 @@
     <SUITE FILE_PATH="coverage/ex001_py$d007.coverage" NAME="d007 Coverage Results" MODIFIED="1756063715140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d025.coverage" NAME="d025 Coverage Results" MODIFIED="1757467705184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d016.coverage" NAME="d016 Coverage Results" MODIFIED="1756950379213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1757824253462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d019.coverage" NAME="d019 Coverage Results" MODIFIED="1756959182579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d022.coverage" NAME="d022 Coverage Results" MODIFIED="1757464143748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1756956263353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -143,6 +155,7 @@
     <SUITE FILE_PATH="coverage/ex001_py$d010.coverage" NAME="d010 Coverage Results" MODIFIED="1756068161695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$ex006.coverage" NAME="ex006 Coverage Results" MODIFIED="1757467808586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d017.coverage" NAME="d017 Coverage Results" MODIFIED="1756950436520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex001_py$ex007.coverage" NAME="ex007 Coverage Results" MODIFIED="1757823457658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d015.coverage" NAME="d015 Coverage Results" MODIFIED="1756946959991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d021.coverage" NAME="d021 Coverage Results" MODIFIED="1757463136089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex001_py$d012.coverage" NAME="d012 Coverage Results" MODIFIED="1756070763149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
