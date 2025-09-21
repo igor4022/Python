@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="776049db-d0c4-41de-bd58-243feccd33fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d022.py" beforeDir="false" afterPath="$PROJECT_DIR$/d022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d023.py" beforeDir="false" afterPath="$PROJECT_DIR$/d023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d024.py" beforeDir="false" afterPath="$PROJECT_DIR$/d024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d025.py" beforeDir="false" afterPath="$PROJECT_DIR$/d025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d026.py" beforeDir="false" afterPath="$PROJECT_DIR$/d026.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +67,7 @@
     "Python.ex006.executor": "Run",
     "Python.ex007.executor": "Run",
     "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
     "Python.test000.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -97,7 +92,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
         <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
       </set>
     </attachedChunks>
@@ -120,7 +114,9 @@
       <workItem from="1757192092847" duration="5000" />
       <workItem from="1757457348257" duration="12910000" />
       <workItem from="1757822666909" duration="31000" />
-      <workItem from="1757822722397" duration="2326000" />
+      <workItem from="1757822722397" duration="2387000" />
+      <workItem from="1758399330338" duration="11000" />
+      <workItem from="1758399368543" duration="67000" />
     </task>
     <servers />
   </component>
