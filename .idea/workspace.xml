@@ -4,7 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="776049db-d0c4-41de-bd58-243feccd33fb" name="Changes" comment="" />
+    <list default="true" id="776049db-d0c4-41de-bd58-243feccd33fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/d035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +76,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.d000.executor": "Run",
+    "Python.d001.executor": "Run",
     "Python.d002.executor": "Run",
     "Python.d003.executor": "Run",
     "Python.d004.executor": "Run",
@@ -64,6 +108,42 @@
     "Python.d032.executor": "Run",
     "Python.d033.executor": "Run",
     "Python.d034.executor": "Run",
+    "Python.d035.executor": "Run",
+    "Python.d036.executor": "Run",
+    "Python.d037.executor": "Run",
+    "Python.d038.executor": "Run",
+    "Python.d039.executor": "Run",
+    "Python.d040.executor": "Run",
+    "Python.d041.executor": "Run",
+    "Python.d042.executor": "Run",
+    "Python.d043.executor": "Run",
+    "Python.d045.executor": "Run",
+    "Python.d046.executor": "Run",
+    "Python.d047.executor": "Run",
+    "Python.d048.executor": "Run",
+    "Python.d049.executor": "Run",
+    "Python.d050.executor": "Run",
+    "Python.d051.executor": "Run",
+    "Python.d052.executor": "Run",
+    "Python.d053.executor": "Run",
+    "Python.d054.executor": "Run",
+    "Python.d055.executor": "Run",
+    "Python.d056.executor": "Run",
+    "Python.d057.executor": "Run",
+    "Python.d058.executor": "Run",
+    "Python.d059.executor": "Run",
+    "Python.d060.executor": "Run",
+    "Python.d061.executor": "Run",
+    "Python.d062.executor": "Run",
+    "Python.d063.executor": "Run",
+    "Python.d064.executor": "Run",
+    "Python.d065.executor": "Run",
+    "Python.d066.executor": "Run",
+    "Python.d067.executor": "Run",
+    "Python.d068.executor": "Run",
+    "Python.d069.executor": "Run",
+    "Python.d070.executor": "Run",
+    "Python.d071.executor": "Run",
     "Python.ex000.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
@@ -73,6 +153,10 @@
     "Python.ex007.executor": "Run",
     "Python.ex008.executor": "Run",
     "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
     "Python.test000.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
