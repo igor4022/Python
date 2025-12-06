@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="776049db-d0c4-41de-bd58-243feccd33fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/d035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="776049db-d0c4-41de-bd58-243feccd33fb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,106 +31,106 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.d000.executor": "Run",
-    "Python.d001.executor": "Run",
-    "Python.d002.executor": "Run",
-    "Python.d003.executor": "Run",
-    "Python.d004.executor": "Run",
-    "Python.d005.executor": "Run",
-    "Python.d006.executor": "Run",
-    "Python.d007.executor": "Run",
-    "Python.d008.executor": "Run",
-    "Python.d009.executor": "Run",
-    "Python.d010.executor": "Run",
-    "Python.d011.executor": "Run",
-    "Python.d012.executor": "Run",
-    "Python.d015.executor": "Run",
-    "Python.d016.executor": "Run",
-    "Python.d017.executor": "Run",
-    "Python.d018.executor": "Run",
-    "Python.d019.executor": "Run",
-    "Python.d020.executor": "Run",
-    "Python.d021.executor": "Run",
-    "Python.d022.executor": "Run",
-    "Python.d023.executor": "Run",
-    "Python.d025.executor": "Run",
-    "Python.d026.executor": "Run",
-    "Python.d027.executor": "Run",
-    "Python.d028.executor": "Run",
-    "Python.d029.executor": "Run",
-    "Python.d030.executor": "Run",
-    "Python.d031.executor": "Run",
-    "Python.d032.executor": "Run",
-    "Python.d033.executor": "Run",
-    "Python.d034.executor": "Run",
-    "Python.d035.executor": "Run",
-    "Python.d036.executor": "Run",
-    "Python.d037.executor": "Run",
-    "Python.d038.executor": "Run",
-    "Python.d039.executor": "Run",
-    "Python.d040.executor": "Run",
-    "Python.d041.executor": "Run",
-    "Python.d042.executor": "Run",
-    "Python.d043.executor": "Run",
-    "Python.d045.executor": "Run",
-    "Python.d046.executor": "Run",
-    "Python.d047.executor": "Run",
-    "Python.d048.executor": "Run",
-    "Python.d049.executor": "Run",
-    "Python.d050.executor": "Run",
-    "Python.d051.executor": "Run",
-    "Python.d052.executor": "Run",
-    "Python.d053.executor": "Run",
-    "Python.d054.executor": "Run",
-    "Python.d055.executor": "Run",
-    "Python.d056.executor": "Run",
-    "Python.d057.executor": "Run",
-    "Python.d058.executor": "Run",
-    "Python.d059.executor": "Run",
-    "Python.d060.executor": "Run",
-    "Python.d061.executor": "Run",
-    "Python.d062.executor": "Run",
-    "Python.d063.executor": "Run",
-    "Python.d064.executor": "Run",
-    "Python.d065.executor": "Run",
-    "Python.d066.executor": "Run",
-    "Python.d067.executor": "Run",
-    "Python.d068.executor": "Run",
-    "Python.d069.executor": "Run",
-    "Python.d070.executor": "Run",
-    "Python.d071.executor": "Run",
-    "Python.ex000.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex002.executor": "Run",
-    "Python.ex003.executor": "Run",
-    "Python.ex005.executor": "Run",
-    "Python.ex006.executor": "Run",
-    "Python.ex007.executor": "Run",
-    "Python.ex008.executor": "Run",
-    "Python.ex009.executor": "Run",
-    "Python.ex010.executor": "Run",
-    "Python.ex011.executor": "Run",
-    "Python.ex012.executor": "Run",
-    "Python.ex013.executor": "Run",
-    "Python.test000.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/tic80/OneDrive/Área de Trabalho/Estudos/Python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.d000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d038.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d039.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d040.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d042.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d045.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d046.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d047.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d049.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d052.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d053.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d056.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d058.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d060.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d061.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d062.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d063.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d064.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d065.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d066.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d067.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d068.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d069.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d070.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d071.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test000.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tic80/OneDrive/Área de Trabalho/Estudos/Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tic80\OneDrive\Área de Trabalho\Estudos\Python" />
